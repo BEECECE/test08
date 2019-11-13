@@ -1,5 +1,4 @@
 
-=begin
   #63  Reverse and invert integers in array, throw out all other elements
 def reverse_invert(array)
   i = 0
@@ -20,7 +19,6 @@ def reverse_invert(array)
     end
   end
 end
-=end
 
 
 def reverse_invert array
